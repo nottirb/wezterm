@@ -1,0 +1,7 @@
+project: wezterm
+target: escape_parse
+
+image: ghcr.io/nottirb/wezterm:latest
+
+cmds:
+    - cmd: /escape_parse
